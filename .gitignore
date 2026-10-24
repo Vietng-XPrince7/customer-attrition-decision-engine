@@ -65,6 +65,7 @@ reports/figures/*.pdf
 reports/figures/*.svg
 *.log
 optuna_studies/
+catboost_info/
 
 # =============================================================================
 # Secrets & Environment Variables
